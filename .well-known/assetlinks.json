@@ -1,0 +1,12 @@
+[{
+
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.lebanon_auction.lebanon_auction",
+      "sha256_cert_fingerprints":
+      ["06:0E:90:EA:39:EE:56:8F:7E:F9:1D:56:33:BF:78:19:CE:0B:59:FD:D7:E7:8F:8C:91:BD:9C:D4:EE:39:A3:D8"]
+    }
+  }]
+  
+
