@@ -2,7 +2,6 @@
 
 <body>
 FLUTTER DEVLOPER
-
-whatsapp:
-<a href="url">https://wa.me/96171793188</a>
+<br>
+<a href="https://wa.me/96171793188">WHATSAPP</a>
 </body>
