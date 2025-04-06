@@ -4,7 +4,7 @@ const nextConfig = {
   images: {
     unoptimized: true,
   },
-  assetPrefix: '/mohamadalghanem474.github.io', // ✅ هذا يقبل وضروري للGitHub Pages
+  assetPrefix: './', // ✅ ضروري مع next export
 }
 
 module.exports = nextConfig
